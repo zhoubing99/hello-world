@@ -1,3 +1,3 @@
 # hello-world
-my first repo
-perfect practice make perfect!
+perfect practice makes perfect!
+it's not true!
