@@ -1,12 +1,8 @@
 # hello-world
 perfect practice makes perfect!
 <h1>it's not true!</h1>   
-
 > To be or not to be, that is a question.  
 
-
-> We're living the future so
-> the present is our past.
 
 加粗使用: **这种语法**
 斜体使用: *这种语法* 或 _这种语法_
